@@ -1,6 +1,19 @@
-{
-  "name": "Barksalot",
+[{
+  "name": "dgdoge",
   "species": "Dog",
   "age": 5,
   "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
-}
+},
+ {
+   "name": "catcat",
+  "species": "Cat",
+  "age": 9,
+  "photo": "https://nnimgt-a.akamaihd.net/transform/v1/crop/frm/MiL9xBFyVnBVcTn8ATkepg/27e2adbe-b2ae-4fa6-8fea-199c66d6ca92.JPG/r0_282_5520_3398_w1200_h678_fmax.jpg"
+ },
+ {
+   "name": "Fahad",
+  "species": "Lion",
+  "age": 19,
+  "photo": "https://cdn.theatlantic.com/assets/media/img/mt/2019/07/TLK_049_YF_0022_comp_v0148_iho_v0002_R.1139/lead_720_405.jpg?mod=1562787817"
+ },
+ ]
